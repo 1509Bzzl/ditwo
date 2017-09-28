@@ -1,0 +1,1 @@
+var b=require("./js/b.js"),c=require("./js/c.js");document.write(b+c);
